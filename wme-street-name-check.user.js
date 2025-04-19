@@ -490,8 +490,8 @@
         addon.innerHTML += 'Ref: <a href="https://wazeopedia.waze.com/wiki/Australia/Abbreviations_and_Acronyms" target="_blank">'
             + 'Australian abbreviations and acronyms</a><p>';
  
-        addon.innerHTML += '<b><a href=https://greasyfork.org/en/scripts/371038-wme-street-name-check>'
-            + 'Oz Street Name Check</a></b> &nbsp; v' + SCRIPT_VERSION;
+        addon.innerHTML += '<b><a href=https://github.com/Dwinger2006/wme-street-name-check>'
+            + 'WME Street Name Check Fork</a></b> &nbsp; v' + SCRIPT_VERSION;
  
         //------------------
         var newtab = document.createElement('li');
