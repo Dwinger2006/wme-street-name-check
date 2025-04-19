@@ -427,7 +427,7 @@
             return false;
         }
  
-        console.group("Oz Street Name Check: " + SCRIPT_VERSION);
+        console.group(`MWE Street Name Check Fork: ${SCRIPT_VERSION}`);
  
         // add new box to left of the map
         var navTabs = getElementsByClassName('nav-tabs', userTabs)[0];
@@ -443,7 +443,7 @@
         //------------------
         section.id = "sncHiliteOptions";
         section.className = 'checkbox';
-        section.innerHTML = '<label style="margin-left: 12px">' + sncIcon + '<b> Oz Street Name Check</b></label><br>'
+        section.innerHTML = '<label style="margin-left: 12px">' + sncIcon + '<b> WME Street Name Check Fork</b></label><br>'
             + '<br><b>Highlight:</b><br>'
             + '<label style="font-weight:normal"><input type="checkbox" id="_cbHighlightUnknown" />'
             + 'Invalid street name formats</label><br>'
