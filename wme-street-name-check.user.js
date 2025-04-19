@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         WME Street Name Check
-// @namespace    https://greasyfork.org/en/scripts/371038-wme-street-name-check
-// @version      2.31.4
+// @name         WME Street Name Check Fork by Dancingman81
+// @namespace    https://github.com/Dwinger2006/wme-street-name-check
+// @version      2025.04.20
 // @description  Highlight unknown street name suffixes
 // @icon         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARVSURBVFhH7VZbTBxVGMY3fakPGpNK61MT44tJ1VRECjuzM7OzC0qEatVatUZr0gvWRI3x8mJiYgWMBqyWh8YmWMKL2aYEWmoDNanBlkJDUx+0hkTFlp37ZXdnL/D5n+FQDUG6S6C8+CV/dnZm9vu+81/O2YqVQkaVHk+rUls6Jo55csR35UiOrn/NqtGj6Xi0aWrz5jv4qysLUxa2BglpBGoUiFQjT+EpAtyYiKxQA9RWAfQ9iEt/kKHd/GcrAzMm7skn5FDYeTIO6+AnMAZOQr9wEfrFcRhDwzAPfw1753MobH0UqJfhqdI3H1RU3MYplg9LEV5Gg4KgZgus99+F/stVpPwAZjqAQ+FSWBRaOgftWgpm12G4LCMJCbYqHuU0y4Or1N2fiUu5HK3KbD0IzcvCdHzksgFmZ2ZQLBZRLBQxw67zBTiOh1S2APNE35yJegW0gFc5XfmwFTEJsQbWG/ug2T4sy8Xs7CyCDBlJGdBpxdpf0zCmNaRdDwy+68+Z6OpCnoxTj2izzc23c8rS4UjSJl8RZtJSHYzzo9Bo5RaJupYDbep6KMwMzJtI0T1bN+GYNjRmbloPewIx1qjCU5y2dDhydD+kWlgte6HbHvTrWiikTf0jvDDC5/PGMvmwH9h0ODGxm9OWDlcRjqDuMZhfdkKnBlsodtOgjBlnf0BAJXSUyCSnLR1U/77QQE8PdD+7uMhSYTowLk3ApX3DkeoKnLZ02IpwPDTwbTcZCBYXWSqYgbFxUCaZgSynLR2OInayjcdqb11eCdwMjFOD4Y7pxIQJTls6HFXcATkCe9eL0DUz7OpFhf4rqAmt1k/D3ZOy+TmnLR1uQ+1djiJ4AZXB6B8gQsrCv0ZvyTBd6Fcn4TQmwM4OOrCqOW15oEZsY3NsP7sN+u9TNI7+zU2wbLHt+cP3wHrIjokT4Hxlw4xG1/m1VZfz1Y/A3rN7zgTLxKLl0Gj00lT7NMz2NmTp7CjQAebS8c3plge9u/sA9r6OAjNBmTAHqBzhKskImw42ouyazf3oGKw3W8KDix1gpiLs4zTLA6W72Q4Knt/b845TU3WFlYP1hP3KS7A+a4d57BjM3l5YXx2CdWA/fGpadnbkElLWVqOvcZrycG5wUBnq63uBxHf6tpc3rqW2s/tWY+Od2YTURv98DDYdrLtZjW8EbdsZRSiS+HfTivBgSFYuRoeHv5gY+QmXzv2IySs/48/fJnfxRzfgNYj35BLyjowa7fBUMUlxIq1Gj9A/oZZAFR/gr5WPh5ue6RgaPI1x2r/PnjwVmjidTD7PH68uKgWp425BxkNNT2MgeRxjZOLyyHkM9/fH+SurBya+MdaADaKCdVU1oYmhwe8xcuZMJ39l9TAvXkmrZ8FMsExs2bb9EH9l9bBQnEWYCUFZO3H6/F989VAZkT5aM3GGSurwDWJsbcQZ1gvyW/epT4Qmbrn4PNZH5Lc3xur1eyPKx/zWLUJFxd/1s79Tvhm24gAAAABJRU5ErkJggg==
 // @author       OneCheapDrunk. From Aug 2018, Keilorcam. From April 2025, Dancingman81
